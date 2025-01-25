@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Codes\\DllBuilder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC93AE80-BAC2-4A6B-8180-9E98DA4483CF}|DllBuilder.vcxproj|D:\\Codes\\DllBuilder\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC93AE80-BAC2-4A6B-8180-9E98DA4483CF}|DllBuilder.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC93AE80-BAC2-4A6B-8180-9E98DA4483CF}|DllBuilder.vcxproj|D:\\Codes\\DllBuilder\\DllBuilder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC93AE80-BAC2-4A6B-8180-9E98DA4483CF}|DllBuilder.vcxproj|solutionrelative:DllBuilder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 195,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\Codes\\DllBuilder\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "D:\\Codes\\DllBuilder\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-25T14:52:10.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DllBuilder.cpp",
+              "DocumentMoniker": "D:\\Codes\\DllBuilder\\DllBuilder.cpp",
+              "RelativeDocumentMoniker": "DllBuilder.cpp",
+              "ToolTip": "D:\\Codes\\DllBuilder\\DllBuilder.cpp",
+              "RelativeToolTip": "DllBuilder.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-25T14:52:10.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
